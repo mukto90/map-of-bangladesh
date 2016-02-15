@@ -1,6 +1,6 @@
 $ = new jQuery.noConflict();
 $(document).ready(function(){
-	// some basic events
+	// some sample events
 	$("#division-dhaka").click(function(){
 		window.location.href="https://www.google.com/search?q=dhaka"
 	})
