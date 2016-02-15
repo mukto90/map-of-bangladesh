@@ -1,0 +1,46 @@
+.region{
+	cursor: pointer;
+	transition: fill 0.5s;
+}
+#division-dhaka{
+	fill: #090;
+}
+#division-dhaka:hover{
+	fill: #0a0;
+}
+#division-chittagong{
+	fill: #818;
+}
+#division-chittagong:hover{
+	fill: #838;
+}
+#division-sylhet{
+	fill: #854;
+}
+#division-sylhet:hover{
+	fill: #884;
+}
+#division-khulna{
+	fill: #308BEF;
+}
+#division-khulna:hover{
+	fill: #259DD9;
+}
+#division-barishal{
+	fill: #F07B37;
+}
+#division-barishal:hover{
+	fill: #F0A073;
+}
+#division-rajshahi{
+	fill: #BB1B32;
+}
+#division-rajshahi:hover{
+	fill: #D9253F;
+}
+#division-rangpur{
+	fill: #1CA8B6;
+}
+#division-rangpur:hover{
+	fill: #2DC9D9;
+}
